@@ -1,3 +1,35 @@
+*** v4.12 ***
+— Fix GPU turbo for Mali GPUs.
+— Enhanced GPU turbo for Adreno GPUs.
+— Smarter AI turbo's activation
+— New Doze tweaks
+— New kernel tweaks
+— Updated I/O tweaks
+— New GPU tweak
+— Optimized CPU tweaks
+— Smarter EAS tweaks
+— Smarter Adreno freqs optimization
+— More unneeded kernel debugging disabled
+— AI framebuffer optimization
+— Enchanced AI processes optimization
+— A lot of AI logic improvements
+— Smarter VM tweaks
+— Fixed kernel FS tweaks
+— Fixed network tweaks
+— Included latest busybox v1.32 built with max optimizations via CLANG
+— misc.
+
+
+
+*** v4.11 ***
+— Fix FDE start on rare devices
+— Increase minimal thresholds for CPU & GPU turbos
+— KSM related fixes
+— Fix resetprop not working
+— misc.
+
+
+
 *** v4.10 ***
 — AI Force-Doze fixes (not forcing to deep idle immediately)
 — AI better screen state detection
