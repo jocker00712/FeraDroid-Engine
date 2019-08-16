@@ -59,8 +59,8 @@ if [ -d /data/adb/magisk ]; then
  api_level_arch_detect;
  $BOOTMODE && boot_actions || recovery_actions;
  ui_print "..";
- unzip -o "$ZIP" module.prop config.sh uninstall.sh -d $INSTALLER > /dev/null 2>&1;
- . $INSTALLER/config.sh;
+ unzip -o "$ZIP" module.prop install.sh -d $INSTALLER > /dev/null 2>&1;
+ . $INSTALLER/install.sh;
  MIN_VER="18000";
  MODID="FDE";
  MODPATH=$MOUNTPATH/$MODID;
@@ -87,11 +87,10 @@ if [ -d /data/adb/magisk ]; then
  {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "   "
  } >> $MODPATH/service.sh;
  chmod 777 $MODPATH/service.sh;
- chmod 777 $MODPATH/uninstall.sh;
  set_permissions;
  magisk --restorecon;
  ui_print ".....";
@@ -134,7 +133,6 @@ else
  fi;
  chmod -R 777 /system/etc/fde.ai;
  chmod 777 /system/etc/fde.ai/*;
- chmod 777 /system/etc/fde.ai/b/*;
  sleep 1;
  ui_print "....";
  if [ -e /init.supersu.rc ]; then
@@ -150,7 +148,7 @@ else
   {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "   "
   } >> /tmp/su.d/99fde.sh;
   umount /tmp;
@@ -161,7 +159,7 @@ else
   {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "   "
   } >> /su/su.d/99fde.sh;
  elif [ -d /system/su.d ]; then
@@ -171,7 +169,7 @@ else
   {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "   "
   } >> /system/su.d/99fde.sh;
  elif [ -d /system/etc/init.d ]; then
@@ -187,7 +185,7 @@ else
   {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "   "
   } >> /system/etc/init.d/99fde;
  elif [ -e /system/bin/debuggerd ]; then
@@ -198,7 +196,7 @@ else
    {
   echo "#!/system/bin/sh"
   echo "   "
-  echo "/system/etc/fde.ai/r.sh > /dev/null 2>&1 &"
+  echo "/system/etc/fde.ai/r.bin &"
   echo "/system/bin/debuggerd_real;"
   echo "   "
    } >> /system/bin/debuggerd;

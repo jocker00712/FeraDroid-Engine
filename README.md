@@ -1,7 +1,7 @@
 <h1 align="center">FDE.AI</h1>
 <h3 align="center"><strong>Ultimate Android Optimizer</strong></h3>
 <p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/screenshot.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/version-v4.12-blueviolet.svg"></p>
+<p align="center"><img src="https://img.shields.io/badge/version-v5.1-blueviolet.svg"></p>
 <p align="center"><a href="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/changelog.txt"> > Changelog < </a><br></p>
 <p>FeraDroid Engine (simply FDE) - an All-in-One ultimate optimizer for <b>all</b> devices on Android OS. <b>No settings/customization</b> and rest 'headache' - all parameters are <b>individual</b> for EVERY device depending on its hardware/software characteristics. All parameters are <i>very balanced</i> - you may gain performance without increase of power consumption AND reduce power consumption without losing performance. FDE is totally compatible with very wide range of devices and Android versions.<br></p>
 <p align="center"><a href="https://forum.xda-developers.com/android/software-hacking/beta-feradroid-engine-v0-19-ultimate-t3284421"><img src="https://img.shields.io/badge/Thread%20at-XDA-orange.svg"></a> <a href="https://4pda.ru/forum/index.php?showtopic=716174"><img src="https://img.shields.io/badge/Thread%20at-4PDA-9cf.svg"></a> <a href="https://www.facebook.com/groups/feralab/"><img src="https://img.shields.io/badge/Group%20on-Facebook-blue.svg"></a> <a href="https://t.me/feralab_xda"><img src="https://img.shields.io/badge/-Telegram%20group-informational.svg"></a><br></p>
@@ -22,8 +22,7 @@
 <p align="center"><i>WARNING! Don't use any other All-in-One tweakers or things may get much worse! I warned you!</i><br></p>
 <p><b>- Make a backup just in case something goes wrong.</b></p>
 <p><b>- Download latest FDE .zip and install it via recovery OR Magisk manager.</b></p>
-<p><b>- After OS boot, if FDE worked OK you will get a <i>toast alert</i>, double vibration and a log file <i>/sdcard/fde.txt</i> will be created.</b><br></p>
-<p>When installing new version of FDE - previous version will be automatically removed. For showing toast alerts small app called "ShowMessage" will be automatically installed - it doesn't use any OS permissions and if you don't like FDE toast alerts you can uninstall this app.<br></p>
+<p><b>- After OS boot, if FDE worked OK you will get vibration and a log file <i>/sdcard/Android/fde.txt</i> will be created.</b><br></p>
 <h2 align="center"><strong>Disclaimer:</strong></h3>
 <p><code>Your warranty is now void.
 I am not responsible for bricked devices, dead SD cards,
@@ -32,9 +31,7 @@ backup your data before flashing it!
 YOU are choosing to make these modifications, and if
 you point the finger at me for messing up your device, I will laugh at you.
 Do everything at your own risk!</code><br></p>
-<h2 align="center"><strong>DONATE:</strong><br></h2>
-<p>Unfortunately PayPal is not working in my country. You can donate me to my <a href="https://qiwi.com/p/996703379393"><strong>QIWI</strong></a>, or on my VISA credit card below. Thanks a lot in advance!
-<p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/qr.png"></p>
+<h2 align="center"><strong><a href="https://www.donationalerts.com/r/feravolt"> > DONATE < </a></strong><br></h2>
 <p><i>Thanks to all guys, who contributed, helped, tested my work.. You all are wonderful, amazing, smart, super cool, beautiful people!</i><br></p>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79092323&postcount=517"><strong> > FAQ < </strong></a><br></h2>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79382552&postcount=722"><strong>Related videos</strong></a><br></h2>

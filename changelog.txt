@@ -1,3 +1,25 @@
+*** v5.1 ***
+— Fixed some bugs in code
+— Added vibration after FDE execution
+— Improved log text
+— Fixed CPU turbo triggering too often
+— misc.
+
+
+
+*** v5.0 ***
+— Completely rewritten from scratches
+— Busybox is not needed anymore
+— Compiled with latest CLANG compiler with max optimization
+— 8x faster execution speed
+— Updated & revised all tweaks, removed unstable ones
+— Added some new tweaks & fixed some old ones
+— More smarter values calculation formulas
+— Enhanced AI
+— misc.
+
+
+
 *** v4.12 ***
 — Fix GPU turbo for Mali GPUs.
 — Enhanced GPU turbo for Adreno GPUs.
@@ -11,7 +33,7 @@
 — Smarter Adreno freqs optimization
 — More unneeded kernel debugging disabled
 — AI framebuffer optimization
-— Enchanced AI processes optimization
+— Enhanced AI processes optimization
 — A lot of AI logic improvements
 — Smarter VM tweaks
 — Fixed kernel FS tweaks
@@ -35,7 +57,7 @@
 — AI better screen state detection
 — Kernel tweaks updated
 — Fixed magisk.log cleanup
-— Enchanced AI processes optimization
+— Enhanced AI processes optimization
 — AI GPU turbo fixes for Adreno GPUs
 — Smarter AI CPU turbo trigger loggic
 — Smarter AI GPU turbo trigger loggic
