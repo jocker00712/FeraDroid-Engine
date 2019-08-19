@@ -1,8 +1,24 @@
+*** v5.2 ***
+— Enhanced CPUturbo trigger logic
+— Compability with Lspeed & LKT, but FDE will override own settings anyway.
+— Tuned VM tweaks
+— Tuned input-boost tweaks
+— Fixed GPU turbo logic
+— Improved GPU turbo logic - double check
+— Added few kernel power-saving tweaks
+— Ability to change AI name with command 'setprop com.feravolt.fdeai.name AI_NAME' (just for fun)
+— Smarter AI performance/powersaving tune-up
+— Fixes for MALI GPU turbo
+— Non-magisk root init fix
+— misc.
+
+
+
 *** v5.1 ***
 — Fixed some bugs in code
 — Added vibration after FDE execution
 — Improved log text
-— Fixed CPU turbo triggering too often
+— Fixed CPU turbo trigerring too often
 — misc.
 
 
