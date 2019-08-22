@@ -1,3 +1,17 @@
+*** v5.3 ***
+— Fixes for possible deep-sleep issues
+— Fixes for AI not woring on some Samsung devices
+— Better screen state detection
+— Fix for log, not appearing in internal memory on rare devices
+— Fixed priority optimization tweak
+— Enhanced CPU turbo logic
+— Few more power-saving tweaks
+— Better CPU detection
+— Various code improvements
+— misc.
+
+
+
 *** v5.2 ***
 — Enhanced CPUturbo trigger logic
 — Compability with Lspeed & LKT, but FDE will override own settings anyway.
