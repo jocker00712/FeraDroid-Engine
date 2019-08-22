@@ -1,3 +1,9 @@
+*** v5.4 ***
+— Urgent TYPO fix
+— misc.
+
+
+
 *** v5.3 ***
 — Fixes for possible deep-sleep issues
 — Fixes for AI not woring on some Samsung devices
