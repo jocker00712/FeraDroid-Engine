@@ -1,3 +1,18 @@
+*** v5.5 ***
+— Improved AI screenOFF behavior
+— Enhanced CPU turbo logic
+— Enhanced machine learning
+— AI became more smarter overall
+— Adreno GPU related bugfixes
+— SafetyNET patch
+— K20pro fuse - none of storage optimizations will be applied
+— Force-DOZE is back
+— Massive code optimization
+— Various bugfixes
+— misc.
+
+
+
 *** v5.4 ***
 — Urgent TYPO fix
 — misc.
