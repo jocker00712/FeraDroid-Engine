@@ -1,3 +1,26 @@
+*** v5.6 ***
+— [APP] First APK release (my first apk ever :))
+— [APP] Auto-installation of FDE.AI - no need for magisk module
+— [APP] FDE.AI autostart
+— [APP] Log is showed inside apk
+— [APP] Pull-to refresh log method
+— [APP] Option to enable/disable AI real-time optimization
+— [APP] Option to enable/disable Force Doze mode
+— [APP] Option to force AI go on performance mode
+— [APP] Option to change AI name
+— [APP] Option to force-restart whole FDE
+— Big AI improvement for some Mali GPUs
+— Better system lang detection
+— Improved Framebuffer boost logic
+— ART cache optimization fixes
+— Fsync parameter is not touched
+— I/O scheduler auto-selection fixed
+— Many other under-the-hood fixes & improvements in code
+— misc.
+
+
+
+
 *** v5.5 ***
 — Improved AI screenOFF behavior
 — Enhanced CPU turbo logic
