@@ -1,3 +1,21 @@
+*** v5.7 ***
+— [APP] Better FDE state detection
+— [APP] Min supported Android OS version is 4.1
+— [APP] 5s delay after OS boot before start
+— [APP] Added Google License check
+— [APP] Fixed start on some devices
+— [APP] Fix empty log in some cases
+— [APP] Added complete FDE uninstall button
+— [APP] Added skip ART cache optimization switch
+— Force DOZE mode is off by default
+— Force DOZE related fixes
+— Better FDE state report
+— Few bugfixes
+— misc.
+
+
+
+
 *** v5.6 ***
 — [APP] First APK release (my first apk ever :))
 — [APP] Auto-installation of FDE.AI - no need for magisk module
