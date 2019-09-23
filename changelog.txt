@@ -1,3 +1,21 @@
+*** v5.8 ***
+— [APP] Fixed crash on Android 10
+— [APP] Various bug-fixes for FDE start
+— [APP] Removed storage access permission
+— [APP] UI performance optimization
+— [APP] SElinux related fixes
+— [APP] Enhanced License security
+— [APP] Added throttling toggle
+— Fixes for GPU Turbo logic.
+— ART optimization is OFF by default
+— Better APK support
+— Better 3rd part tweakers detection
+— Fix AI name reset on reboot
+— Various urgent code bugfixes
+— misc.
+
+
+
 *** v5.7 ***
 — [APP] Better FDE state detection
 — [APP] Min supported Android OS version is 4.1
