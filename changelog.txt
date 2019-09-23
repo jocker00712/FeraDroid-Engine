@@ -33,7 +33,6 @@
 
 
 
-
 *** v5.6 ***
 — [APP] First APK release (my first apk ever :))
 — [APP] Auto-installation of FDE.AI - no need for magisk module
@@ -53,7 +52,6 @@
 — I/O scheduler auto-selection fixed
 — Many other under-the-hood fixes & improvements in code
 — misc.
-
 
 
 
