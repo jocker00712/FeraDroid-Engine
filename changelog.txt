@@ -1,17 +1,29 @@
+*** v5.9 ***
+— [APP] Fixed problems on older Android OS versions
+— [APP] UI bug-fixes
+— Whole code refactored - fixed a lot of potential bugs
+— Enhanced screen state detection
+— Decreased RAM usage
+— Enhanced AI logic
+— CPU tweaks fixes
+— misc.
+
+
+
 *** v5.8 ***
 — [APP] Fixed crash on Android 10
 — [APP] Various bug-fixes for FDE start
-— [APP] Removed storage access permission
+— [APP] Removed storage access permission (log is stored in sandbox-ed app's memory)
 — [APP] UI performance optimization
 — [APP] SElinux related fixes
 — [APP] Enhanced License security
 — [APP] Added throttling toggle
 — Fixes for GPU Turbo logic.
-— ART optimization is OFF by default
+— ART optimization is OFF by default (since many complains)
 — Better APK support
 — Better 3rd part tweakers detection
 — Fix AI name reset on reboot
-— Various urgent code bugfixes
+— Various urgent code bug-fixes
 — misc.
 
 
