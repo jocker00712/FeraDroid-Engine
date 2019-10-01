@@ -1,3 +1,15 @@
+*** v6.1 ***
+— [APP] Auto dark theme support for Android 9+
+— [APP] Material Design UI
+— [APP] UI bugfixes
+— [APP] Updated all dependent liraries
+— [APP] Better code optimization
+— Improved AI extra power-saving mode.
+— Improved AI extra performance mode.
+— misc.
+
+
+
 *** v6.0 ***
 — [APP] Whole code revised
 — [APP] Fixed SElinux related issues
