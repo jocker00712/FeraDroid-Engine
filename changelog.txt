@@ -1,3 +1,19 @@
+*** v6.2 ***
+— [APP] UI bug-fixes
+— [APP] Updated all dependency libs
+— [APP] Vulkan UI rendering option for Android 10
+— [APP] Experimental build.prop tweaks toggle
+— Improved Force Doze mode
+— Tuned VM tweaks
+— Fixed time appearance in log
+— I/O tweaks fixes
+— AI dynamic VM tune-up
+— Improved execution speed
+— Optimized code
+— misc.
+
+
+
 *** v6.1 ***
 — [APP] Auto dark theme support for Android 9+
 — [APP] Material Design UI
