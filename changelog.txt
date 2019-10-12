@@ -3,6 +3,8 @@
 — [APP] Updated all dependency libs
 — [APP] Vulkan UI rendering option for Android 10
 — [APP] Experimental build.prop tweaks toggle
+— [APP] Added AI info button
+— [APP] Vulkan rendering option is available only if GPU driver supports GLES v3.2+
 — Improved Force Doze mode
 — Tuned VM tweaks
 — Fixed time appearance in log
@@ -10,6 +12,7 @@
 — AI dynamic VM tune-up
 — Improved execution speed
 — Optimized code
+— Bugfixes
 — misc.
 
 
