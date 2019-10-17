@@ -1,3 +1,19 @@
+*** v6.3 ***
+— [APP] Removed obsolete buttons
+— [APP] UI bugfixes
+— [APP] Fixed crash in some cases
+— [APP] Enhanced security
+— Updated Clang compiler flags
+— Whole code heavily optimized
+— Execution speed-up
+— Fixed some rare crash cases
+— Improved UFS memory detection
+— Adreno throttling control fixed (true lagree gaming)
+— Various bugfixes
+— misc.
+
+
+
 *** v6.2 ***
 — [APP] UI bug-fixes
 — [APP] Updated all dependency libs
