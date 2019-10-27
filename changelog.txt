@@ -1,3 +1,21 @@
+*** v7.0 ***
+— [APP] Improved configuration logic
+— [APP] UI updates & fixes
+— [APP] Updated all dependency libs
+— [APP] Ability to actually text with AI (a way to configure it)
+— [APP] Real-time log
+— Improved throttling control logic
+— Enhanced machine learning
+— Fixed dynamic VM tuner
+— Improved configuration logic
+— Enhanced build.prop tweaks apply
+— Log enhancements
+— AI logic improvements
+— AI talker module
+— misc.
+
+
+
 *** v6.3 ***
 — [APP] Removed obsolete buttons
 — [APP] UI bugfixes
