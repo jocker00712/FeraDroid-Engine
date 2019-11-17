@@ -1,3 +1,27 @@
+*** v7.1 ***
+— [APP] Updated all dependency libs
+— [APP] Vulkan UI rendering is removed
+— [APP] UI updates
+— [APP] Reduced app's size
+— [APP] Built-in changelog
+— [APP] Built-in settings & AI info
+— Improved FDE stats
+— Improved FDE functions execution logic
+— Improved AI performance & logic
+— Improved CPU turbo mode
+— Improved GPU turbo mode
+— Improved extra power-saving mode
+— FDE turbos time in state stats
+— Talker module improved
+— Updated I/O tweaks
+— Updated EAS tweaks
+— Updated processes priority tweaks
+— Latest Linux foundation Qcom optimal parameters
+— Various bugfixes
+— misc.
+
+
+
 *** v7.0 ***
 — [APP] Improved configuration logic
 — [APP] UI updates & fixes
