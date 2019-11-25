@@ -1,3 +1,20 @@
+*** v7.2 ***
+— [APP] Updated all dependency libs
+— [APP] UI bugfixes & updates
+— [APP] Built-in text info updated
+— [APP] Added FDE force restart button
+— Whole code re-optimized
+— More accurate GPU load info
+— Improved FDE turbos time-in-state stats
+— Improved device info get
+— Fixed many potential segmentation faults
+— AI Talker module improved
+— Removed conflicting stuff from Qcom parameters script
+— Improved ART cache optimization technique
+— misc.
+
+
+
 *** v7.1 ***
 — [APP] Updated all dependency libs
 — [APP] Vulkan UI rendering is removed
