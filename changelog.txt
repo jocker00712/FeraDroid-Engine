@@ -1,3 +1,25 @@
+*** v7.3 ***
+— [APP] Updated all dependency libs
+— [APP] MD2 design
+— [APP] UI updates & performance improvement
+— [APP] Should be compatible with Android TV
+— [APP] New main info page
+— [APP] New AI chat window
+— [APP] Updated AI & settings info (thx to Dmitry D.)
+— [APP] Moved to libsu (@topjohnwu)
+— [APP] Updated navbar & icons
+— Enhanced AI extra powersave mode
+— AI talker module updates
+— Extended AI talker features
+— Extended stats
+— Sony TA patch break fixed
+— Improved VM tweaks
+— Turbo's state report support
+— Various bugfixes
+— misc.
+
+
+
 *** v7.2 ***
 — [APP] Updated all dependency libs
 — [APP] UI bugfixes & updates
