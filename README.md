@@ -1,5 +1,5 @@
 <h1 align="center">FDE.AI</h1>
-<h3 align="center"><strong>Ultimate Android Optimizer</strong></h3>
+<h3 align="center"><strong>Universal Android OS/Kernel optimizer (AI)</strong></h3>
 <p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/screenshot.png"></p>
 <p align="center"><img src="https://img.shields.io/badge/version-v7.2-blueviolet.svg"></p>
 <p align="center"><a href="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/changelog.txt"> > Changelog < </a><br></p>
