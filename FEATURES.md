@@ -11,6 +11,7 @@
 <code>- Dalvik VM tracing & debugging deactivation</code><br>
 <code>- Video codecs & UI composer debugging deactivation</code><br>
 <code>- Forcing HW video playback acceleration</code><br>
+<code>- Protection against net vulnerability CVE-2016-5696</code><br>
 <code>- Protection against Stagefright vulnerabilities</code><br>
 <code>- RIL security & speed and power consumption optimization</code><br>
 <code>- UI scrolling speed optimization (for 60/90/120 HZ displays)</code><br>
