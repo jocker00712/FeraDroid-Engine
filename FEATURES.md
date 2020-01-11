@@ -82,4 +82,10 @@
 <code>- Refreshing file system on all partitions (fstrim)</code><br>
 <code>- SafetyNET patch</code><br>
 <code>- zRAM speed optimization</code><br>
+<code>- CPU turbo (AI + machine learning)</code><br>
+<code>- GPU turbo (AI + machine learning)</code><br>
+<code>- Frame-buffer boost (AI)</code><br>
+<code>- Dynamic VM tuner (AI)</code><br>
+<code>- Force Doze (AI)</code><br>
+<code>- Thermal controller (AI)</code><br>
 <code>- misc...</code><br>
